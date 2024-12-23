@@ -1,0 +1,132 @@
+.bj{
+    background-image: url(南昌背景.png);
+    background-color: rgba(255, 153, 0, 0.188);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 30%;
+    background-color: bisque;
+    padding: 50px;
+    padding-top: 0%;
+    border: 10px;
+    margin:auto;
+    width: 1200px;
+    display: table;
+}
+a.xc{
+    background: url(宣传图.jpg);
+    background-position: center;
+    display: block;
+    width: 1300px;
+    padding-top: 480px;
+    background-size: 62%;
+}
+a.xc1{
+    background: url(南昌地方动图.gif);
+    background-position: center;
+    display: block;
+    width: 1300px;
+    padding-top: 480px;
+    background-size: 62%;
+}
+a.xc2{
+    background: url(南昌美食动图.gif);
+    background-position: center;
+    display: block;
+    width: 1300px;
+    padding-top: 480px;
+    background-size: 32%;
+}
+a.xc3{
+    background: url(南昌历史动图.gif);
+    background-position: center;
+    display: block;
+    width: 1300px;
+    padding-top: 480px;
+    background-size: 59%;
+}
+a.xc4{
+    background: url(南昌旅游动图.gif);
+    background-position: center;
+    display: block;
+    width: 1300px;
+    padding-top: 480px;
+    background-size: 59%;
+}
+.c{
+    padding: 20px 20px;
+    border-bottom: 3px solid blue;
+    background-color: floralwhite;
+}
+    a{text-decoration:none;}
+    a:visited{color: rgb(0, 174, 255);}
+    a:hover{color:red}
+.w{
+    width: 200px; 
+    float: left;
+    font-size: 20px;
+    overflow: hidden;
+}
+h1{
+    text-align:center;
+    margin-top: 100px;
+    color: rgb(237, 175, 17);
+    font-family: '隶书';
+    font-size: 50px;
+    color: rgb(0, 174, 255);
+}
+#p1{
+    margin-top: 25px;
+    text-align: right;
+    color: orange;
+    background-color: rgb(255, 255, 255);
+}
+.A{
+    text-align: center;
+    margin: 0 auto;
+}
+p{
+    font-size: 15px;
+    line-height: 25px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+#b{
+    font-style: italic;
+}
+#p2{
+    margin-top: 0px;
+    text-align: center;
+    color: orange;
+    background-color: rgb(255, 255, 255);
+}
+h4{
+    font-family: '楷体';
+    text-align: center;
+    font-size: 12px;
+}
+#liuyan {
+    text-align: center;
+    }
+#liuyanbox {
+    display: inline-block;
+    text-align: center;
+    }
+#liuyanbox {
+    line-height: 30px;
+    }  
+#liuyanbox input {
+    width: 240px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    }
+textarea {
+    width: 450px;
+    height: 230px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    }
+button {
+    width: 100px;
+    height: 30px;
+    }
